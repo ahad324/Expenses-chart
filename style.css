@@ -28,7 +28,9 @@
       color: white;
       font-size: 2rem;
   }
-
+  .toggleWrapper i {
+      color:crimson;
+  }
 
 
 
